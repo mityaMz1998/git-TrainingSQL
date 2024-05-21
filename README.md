@@ -11,7 +11,7 @@ The response must contain the following columns:
 
 The script contains in the file "SQL_Employees_Companies.sql"
 
-![image](https://github.com/mityaMz1998/git-TestTaskSQL-1/assets/100907269/b2ea3bd1-21f6-4c82-9610-7c75548ef89d)
+![image](https://github.com/mityaMz1998/git-TrainingSQL/assets/100907269/40ba4a95-e517-49d3-9f4b-65f47d1b1854)
 
 
 II. Write queries on the data from the tables that will output all the necessary information:
@@ -23,9 +23,9 @@ II. Write queries on the data from the tables that will output all the necessary
 6.	Output the following columns: supplier name, order amount. Sort the results by supplier in descending order
 7.	Output the following columns: supplier name, order date. Output so that all customers from Table 1 are shown in the results table.
 
-![image](https://github.com/mityaMz1998/git-TestTaskSQL-2/assets/100907269/fc800429-0aa4-44c9-a1b4-00768476f872)
+![image](https://github.com/mityaMz1998/git-TrainingSQL/assets/100907269/96acae5f-0302-49b5-886e-3439d8becfe9)
 
-![image](https://github.com/mityaMz1998/git-TestTaskSQL-2/assets/100907269/b4de89a3-aebd-43fe-ba8a-c17d9b4c2f45)
+![image](https://github.com/mityaMz1998/git-TrainingSQL/assets/100907269/f68b00ba-4c45-497a-bf0d-74ff6c3e100b)
 
 The script contains in the file "SQL_Customers_Orders.sql"
 
@@ -33,20 +33,20 @@ The script contains in the file "SQL_Customers_Orders.sql"
 
 III.There is database:
 
-![image](https://github.com/mityaMz1998/git-TestTask-3/assets/100907269/cc531c66-9ffd-49e9-a2c5-5f978c4bdcf4)
+![image](https://github.com/mityaMz1998/git-TrainingSQL/assets/100907269/5099efad-90d0-4395-afbd-3a4661ac5d8a)
 
-![image](https://github.com/mityaMz1998/git-TestTask-3/assets/100907269/7d65b69a-7814-4681-aa08-7edafe81e821)
+![image](https://github.com/mityaMz1998/git-TrainingSQL/assets/100907269/29dc6804-c83f-4fb0-ba52-13886da9b8d1)
 
 Write a query that outputs the number of working accounts (deposits) with a balance greater than 0 for each client in the form of this table:
 
-![image](https://github.com/mityaMz1998/git-TestTask-3/assets/100907269/a4d0995f-e26c-46ea-95c9-bf8655e9b52e)
+![image](https://github.com/mityaMz1998/git-TrainingSQL/assets/100907269/e962953c-62c1-4922-87b9-b3a9c5a57af7)
 
 The script contains in the file "SQL_Clients_Accounts.sql"
 
 
 IV.Initial data: there are 2 tables users and levels with the corresponding set of fields. Table structure and field values are given below:
 
-![image](https://github.com/mityaMz1998/git-TaskPostgreSQL/assets/100907269/5a67349c-ca29-4189-88e6-368e892fe72e)
+![image](https://github.com/mityaMz1998/git-TrainingSQL/assets/100907269/6afbd1a8-2486-4c98-beba-20cd1cac903d)
 
 Assignments to write database queries:
 1. Select from the user table all users with level_id=1, skill > 799000 and the letter a in their name.
