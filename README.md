@@ -9,4 +9,6 @@ The response must contain the following columns:
 - Employee's first and last name;
 - Job title.
 
+The script contains in the file "SQL_Employees_Companies.sql"
+
 ![image](https://github.com/mityaMz1998/git-TestTaskSQL-1/assets/100907269/b2ea3bd1-21f6-4c82-9610-7c75548ef89d)
