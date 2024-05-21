@@ -1,4 +1,4 @@
-Write two SQL queries to fulfill the task:
+I.Write two SQL queries to fulfill the task:
 1) Output the average salary of all testers on the 'PUMCHD' project.
 The response should contain columns:
 - Project name;
