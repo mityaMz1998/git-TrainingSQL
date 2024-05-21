@@ -14,7 +14,7 @@ The script contains in the file "SQL_Employees_Companies.sql"
 ![image](https://github.com/mityaMz1998/git-TestTaskSQL-1/assets/100907269/b2ea3bd1-21f6-4c82-9610-7c75548ef89d)
 
 
-II. You need to write queries on the data from the tables that will output all the necessary information:
+II. Write queries on the data from the tables that will output all the necessary information:
 1.	Output the names of all companies that did not fulfill the order from 15.11.1996 - 18.02.1997 
 2.	Output the names of the supplier companies that are located in México D.F.;
 3.	Output only those orders that were placed from 12/12/1996 to 02/18/1997;
@@ -28,6 +28,7 @@ II. You need to write queries on the data from the tables that will output all t
 ![image](https://github.com/mityaMz1998/git-TestTaskSQL-2/assets/100907269/b4de89a3-aebd-43fe-ba8a-c17d9b4c2f45)
 
 The script contains in the file "SQL_Customers_Orders.sql"
+
 
 
 III.There is database:
